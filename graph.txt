@@ -1,0 +1,31 @@
+* 9219f9c agregando parrafos
+*   1de99ee Merge branch 'main' of https://github.com/DiolioF/curso-git-github
+|\  
+| *   b5d4f0c Resolviendo el problema de fusion
+| |\  
+* | \   bbc07e6 Resolviendo los problemas de fusion en el index.html sobre las estaciones del año
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * c6b3f3b agregando esciones del año
+* | 15751c1 Agregando los nombre de llas estaciones
+|/  
+*   d3975a8 Resolviendo Conflicto merge main/html en el documento index.hmtl
+|\  
+| * 56790d8 practicando una manual merge(fusion manual)
+* | f676b80 agregando style.css al index.html
+* |   c3e9a69 Merge branch 'js'
+|\ \  
+| * | 1335a56 Crenado index.js
+* | | 1a7812a Creando Style.css
+| |/  
+|/|   
+* | 1fea73c Creando index.html
+|/  
+* afd8252 Ignorando archivos .exe
+* 05f6303 Creando Licencia del Repositorio
+* b3e5b86 Agragando mas contenido al readme
+* 442eb36 JON es crack
+* 54ff87f Agragnado Contenido Inicial al README
+* 37c4df3 First Commmit 😊
