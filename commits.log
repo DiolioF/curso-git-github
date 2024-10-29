@@ -1,0 +1,124 @@
+commit 7783abbeebaf930e2043073a1f779eb881326121
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 16:23:48 2024 -0300
+
+    añadiendo el graph.txt
+
+commit 9219f9cadb7356811cfee9a859200c46190ce3df
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 14:42:32 2024 -0300
+
+    agregando parrafos
+
+commit 1de99eeb9217a401739655f58b2d398dcdbf1627
+Merge: bbc07e6 b5d4f0c
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 14:01:33 2024 -0300
+
+    Merge branch 'main' of https://github.com/DiolioF/curso-git-github
+
+commit bbc07e64da53bf6096447202ded6d8127ed30030
+Merge: 15751c1 c6b3f3b
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 13:53:18 2024 -0300
+
+    Resolviendo los problemas de fusion en el index.html sobre las estaciones del año
+
+commit b5d4f0c5be7f781efde7fad650325fbfae024247
+Merge: 15751c1 c6b3f3b
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 13:53:18 2024 -0300
+
+    Resolviendo el problema de fusion
+
+commit 15751c15e4bf6b892bc0f7857ef7b34b210f3134
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 13:34:51 2024 -0300
+
+    Agregando los nombre de llas estaciones
+
+commit c6b3f3b3b93088d9997afc97d8cd38e957363188
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 13:34:51 2024 -0300
+
+    agregando esciones del año
+
+commit d3975a848d70e7f19399e59be76ded98c450732c
+Merge: f676b80 56790d8
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 12:48:43 2024 -0300
+
+    Resolviendo Conflicto merge main/html en el documento index.hmtl
+
+commit 56790d80a2cdb9d6d3d7d925076a6760473ffc68
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 12:40:14 2024 -0300
+
+    practicando una manual merge(fusion manual)
+
+commit f676b80eb65ddc5aa0d2eefacc08324bfcf5ccbf
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 12:31:32 2024 -0300
+
+    agregando style.css al index.html
+
+commit c3e9a69200150f74766b102000a1f4170a04caaf
+Merge: 1a7812a 1335a56
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 10:57:25 2024 -0300
+
+    Merge branch 'js'
+
+commit 1335a5655928011fe41f24a99997c1a2d546a608
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 09:56:54 2024 -0300
+
+    Crenado index.js
+
+commit 1a7812a6c1995d6e554e12883f2faa6ae8760837
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 09:48:05 2024 -0300
+
+    Creando Style.css
+
+commit 1fea73cbe94dbf772654c5bb5ceca4256e2b3621
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 09:34:40 2024 -0300
+
+    Creando index.html
+
+commit afd825231a154acf8c192c17811b42cdc177ac63
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Tue Oct 29 01:04:03 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 05f630305a738351f9bad2775d46ec59d7dbabe8
+Author: DiolioF <valentinserassiowork@gmail.com>
+Date:   Mon Oct 28 22:35:50 2024 -0300
+
+    Creando Licencia del Repositorio
+
+commit b3e5b864fc279d7defd4bdbc756f20bdc0e8709a
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Mon Oct 28 20:35:24 2024 -0300
+
+    Agragando mas contenido al readme
+
+commit 442eb362ae816510cef375eccd43f44bd351a177
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Mon Oct 28 18:23:49 2024 -0300
+
+    JON es crack
+
+commit 54ff87f61e4bf590af222eda8cc2eb401605ddc6
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Mon Oct 28 18:22:45 2024 -0300
+
+    Agragnado Contenido Inicial al README
+
+commit 37c4df3decfe91e4bc1006901ec034f30b12dbfe
+Author: Valentin Serassio <valentinserassio@gmail.com>
+Date:   Mon Oct 28 18:13:54 2024 -0300
+
+    First Commmit 😊
